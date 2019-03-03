@@ -1,0 +1,65 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,Robot_json,texture_json,texture_png,bird_json,texture2_json,texture2_png,bg_jpg,tube_up_png,tube_down_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/robot/Robot.json",
+			"type": "json",
+			"name": "Robot_json"
+		},
+		{
+			"url": "assets/robot/texture.json",
+			"type": "json",
+			"name": "texture_json"
+		},
+		{
+			"url": "assets/robot/texture.png",
+			"type": "image",
+			"name": "texture_png"
+		},
+		{
+			"url": "assets/bird/bird.json",
+			"type": "json",
+			"name": "bird_json"
+		},
+		{
+			"url": "assets/bird/texture.json",
+			"type": "json",
+			"name": "texture2_json"
+		},
+		{
+			"url": "assets/bird/texture.png",
+			"type": "image",
+			"name": "texture2_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"name": "tube_up_png",
+			"type": "image",
+			"url": "assets/tube_up.png"
+		},
+		{
+			"name": "tube_down_png",
+			"type": "image",
+			"url": "assets/tube_down.png"
+		}
+	]
+}
